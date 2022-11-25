@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png" height="175px" width="175px"/>
+<img src="https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png" height="250px" width="250px"/>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepa Kushwaha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
