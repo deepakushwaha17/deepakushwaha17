@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Deepa Kushwaha</h1>
+<div align="center">
+<img src="https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png" height="175px" width="175px"/>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepa Kushwaha</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakushwaha17&label=Profile%20views&color=0e75b6&style=flat" alt="deepakushwaha17" /> </p>
 
