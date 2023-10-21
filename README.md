@@ -32,7 +32,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepakushwaha17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakushwaha17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align = "center" >
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepakushwaha17&bg_color=e59ac2&color=433b3f&line=d07ec7&point=8d256c&area=false&hide_border=false)](https://github.com/deepakushwaha17/github-readme-activity-graph" height = "300px" width = "600px"/>
  </div>
 
 
